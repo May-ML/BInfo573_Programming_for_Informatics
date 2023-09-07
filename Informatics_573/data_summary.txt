@@ -1,26 +1,24 @@
-total 5376
- 256 -rwxr-xr-x 1 liangme liangme 186109 Jan 24  2014 chr1_GL383518v1_alt.fa
- 128 -rwxr-xr-x 1 liangme liangme 112495 Jan 24  2014 chr1_GL383519v1_alt.fa
- 384 -rwxr-xr-x 1 liangme liangme 373933 Jan 24  2014 chr1_GL383520v2_alt.fa
- 256 -rwxr-xr-x 1 liangme liangme 178581 Jan 24  2014 chr1_KI270706v1_random.fa
- 128 -rwxr-xr-x 1 liangme liangme  32697 Jan 24  2014 chr1_KI270707v1_random.fa
- 128 -rwxr-xr-x 1 liangme liangme 130260 Jan 24  2014 chr1_KI270708v1_random.fa
- 128 -rwxr-xr-x 1 liangme liangme  68222 Jan 24  2014 chr1_KI270709v1_random.fa
- 128 -rwxr-xr-x 1 liangme liangme  41004 Jan 24  2014 chr1_KI270710v1_random.fa
- 128 -rwxr-xr-x 1 liangme liangme  43079 Jan 24  2014 chr1_KI270711v1_random.fa
- 256 -rwxr-xr-x 1 liangme liangme 179588 Jan 24  2014 chr1_KI270712v1_random.fa
- 128 -rwxr-xr-x 1 liangme liangme  41584 Jan 24  2014 chr1_KI270713v1_random.fa
- 128 -rwxr-xr-x 1 liangme liangme  42576 Jan 24  2014 chr1_KI270714v1_random.fa
- 512 -rwxr-xr-x 1 liangme liangme 434135 Jan 24  2014 chr1_KI270759v1_alt.fa
- 128 -rwxr-xr-x 1 liangme liangme 111740 Jan 24  2014 chr1_KI270760v1_alt.fa
- 256 -rwxr-xr-x 1 liangme liangme 169172 Jan 24  2014 chr1_KI270761v1_alt.fa
- 384 -rwxr-xr-x 1 liangme liangme 361554 Jan 24  2014 chr1_KI270762v1_alt.fa
-1024 -rwxr-xr-x 1 liangme liangme 929913 Jan 24  2014 chr1_KI270763v1_alt.fa
- 128 -rwxr-xr-x 1 liangme liangme  51285 Jan 24  2014 chr1_KI270764v1_alt.fa
- 256 -rwxr-xr-x 1 liangme liangme 189012 Jan 24  2014 chr1_KI270765v1_alt.fa
- 256 -rwxr-xr-x 1 liangme liangme 261418 Jan 24  2014 chr1_KI270766v1_alt.fa
- 256 -rwxr-xr-x 1 liangme liangme 165478 Jan 24  2014 chr1_KI270892v1_alt.fa
-   0 -rw-rw-r-- 1 liangme liangme      0 Sep  1 19:15 data_summary.txt
+ 256 -rw-rw-r-- 1 liangme liangme 186109 Jan 24  2014 chr1_GL383518v1_alt.fa
+ 128 -rw-rw-r-- 1 liangme liangme 112495 Jan 24  2014 chr1_GL383519v1_alt.fa
+ 384 -rw-rw-r-- 1 liangme liangme 373933 Jan 24  2014 chr1_GL383520v2_alt.fa
+ 256 -rw-rw-r-- 1 liangme liangme 178581 Jan 24  2014 chr1_KI270706v1_random.fa
+ 128 -rw-rw-r-- 1 liangme liangme  32697 Jan 24  2014 chr1_KI270707v1_random.fa
+ 128 -rw-rw-r-- 1 liangme liangme 130260 Jan 24  2014 chr1_KI270708v1_random.fa
+ 128 -rw-rw-r-- 1 liangme liangme  68222 Jan 24  2014 chr1_KI270709v1_random.fa
+ 128 -rw-rw-r-- 1 liangme liangme  41004 Jan 24  2014 chr1_KI270710v1_random.fa
+ 128 -rw-rw-r-- 1 liangme liangme  43079 Jan 24  2014 chr1_KI270711v1_random.fa
+ 256 -rw-rw-r-- 1 liangme liangme 179588 Jan 24  2014 chr1_KI270712v1_random.fa
+ 128 -rw-rw-r-- 1 liangme liangme  41584 Jan 24  2014 chr1_KI270713v1_random.fa
+ 128 -rw-rw-r-- 1 liangme liangme  42576 Jan 24  2014 chr1_KI270714v1_random.fa
+ 512 -rw-rw-r-- 1 liangme liangme 434135 Jan 24  2014 chr1_KI270759v1_alt.fa
+ 128 -rw-rw-r-- 1 liangme liangme 111740 Jan 24  2014 chr1_KI270760v1_alt.fa
+ 256 -rw-rw-r-- 1 liangme liangme 169172 Jan 24  2014 chr1_KI270761v1_alt.fa
+ 384 -rw-rw-r-- 1 liangme liangme 361554 Jan 24  2014 chr1_KI270762v1_alt.fa
+1024 -rw-rw-r-- 1 liangme liangme 929913 Jan 24  2014 chr1_KI270763v1_alt.fa
+ 128 -rw-rw-r-- 1 liangme liangme  51285 Jan 24  2014 chr1_KI270764v1_alt.fa
+ 256 -rw-rw-r-- 1 liangme liangme 189012 Jan 24  2014 chr1_KI270765v1_alt.fa
+ 256 -rw-rw-r-- 1 liangme liangme 261418 Jan 24  2014 chr1_KI270766v1_alt.fa
+ 256 -rw-rw-r-- 1 liangme liangme 165478 Jan 24  2014 chr1_KI270892v1_alt.fa
 ==> chr1_GL383518v1_alt.fa <==
 >chr1_GL383518v1_alt
 ctataatcccagcttgttgggaggccaaggcaggaggatcacttgaagcc
